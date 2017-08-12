@@ -19,8 +19,6 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-	<div class="row">
-
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
