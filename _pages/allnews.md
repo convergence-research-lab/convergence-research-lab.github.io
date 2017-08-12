@@ -1,7 +1,7 @@
 ---
-title: "Home"
+title: "Group News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "News from the Vidyavriksh Research Lab."
 sitemap: false
 permalink: /allnews.html
 ---

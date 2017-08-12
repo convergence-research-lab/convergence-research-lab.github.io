@@ -8,7 +8,7 @@ permalink: /
 
 We are a small, independent and interdisciplinary research group based out of Goa, India. Our aim is to to conduct fundamental and applied research in the sciences, engineering as well as the social sciences. We thrive off collaborative work fostered by the exchange of ideas and development of analogies across traditional discplines. 
 
-Our current interests lie in all possible combinations of Machine Learning, Data Science, Clinical Psychology, Neuroscience, Game Theory, Network Science, Emergent Behavior and Coordination, Theoretical Physics, Cancer Biology, Mathematical Sociology and Education. 
+Our current interests lie in all possible combinations of Machine Learning, Data Science, Clinical Psychology, Neuroscience, Game Theory, Network Science, Emergent Behavior and Coordination, Theoretical Physics, Cancer Biology, Mathematical Sociology and Education. Our [weekly seminars]({{ site.url }}{{ site.baseurl }}/seminar) cover these topics and are open to all. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -58,15 +58,12 @@ We offer analytics and [consultancy services]({{ site.url }}{{ site.baseurl }}/c
 
 We are currently located at <i> [Mais Space](https://www.google.co.in/maps/place/Vidyavriksh/@15.4863599,73.818404,15z) </i>, a studio which enables learning. Situated in Panaji, Goa -- it is a space supported by the Fomento Group, which enables us to access rescourses at the Fomento Knowledge Office (FKO). 
 
- **We are looking for passionate seasoned / graduate researchers as well as enterprising undergraduates to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
+ **We are looking for passionate seasoned / graduate / independent researchers as well as enterprising undergraduates to join the team as resident researchers or as remote collaborators** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
  
- 
-We are grateful for funding from Leiden University and [NWO](www.nwo.nl) ([Vidi talent grant](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)).
+
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Vidyavriksh.png" style="width: 200px">
 </figure>
 
 

@@ -1,12 +1,11 @@
 - title: Towards a dS/MERA correspondence
-  image: 
+  image: MERA.png
   description: Recent advances have suggested that spacetime itself emerges from the entanglement of the quantum degrees of freedom living on the boundary. In this paper, we suggest a prescription for the dS/MERA correspondence and recover a discrete version of the de Sitter spacetime. Time appears as an emergent direction, with implications of cosmological relevance.
 
   authors: R. Kunkolienkar, K. Banerjee
     
-  link: https://arxiv.org/abs/1611.08581
-  url: https://arxiv.org/abs/1611.08581
-    
-  display: Int. J. Mod. Phys. D (2017)
+  link:
+    url: http://arxiv.org/abs/1611.08581
+    display: Int. J. Mod. Phys. D (2017)
   highlight: 1
   news2: See also <a href="https://www.quantamagazine.org/quantum-gravitys-time-problem-20161201/"> Quantum Gravity's Time Problem </a> to understand the problem we are trying to attack. 
