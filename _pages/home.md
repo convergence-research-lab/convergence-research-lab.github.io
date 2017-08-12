@@ -1,7 +1,7 @@
 ---
-title: " Lab - Home"
+title: "Vidyavriksh Research Group - Home"
 layout: homelay
-excerpt: "Interdisciplinary Research Lab in Goa."
+excerpt: "Interdisciplinary Research Group in Goa."
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ We are a small, independent and interdisciplinary research group based out of Go
 Our current interests lie in all possible combinations of Machine Learning, Data Science, Clinical Psychology, Neuroscience, Game Theory, Network Science, Emergent Behavior and Coordination, Theoretical Physics, Cancer Biology, Mathematical Sociology and Education. 
  
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -25,20 +25,21 @@ Our current interests lie in all possible combinations of Machine Learning, Data
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/class.jpg" alt="Exploring the depth of unabashed questioning" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/hri.jpg" alt="We see Mathematics in everything!" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/urbancafe.jpg" alt="Where the freedom of mind meets the freedom of the spirit." />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topo214.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/raj_renuka_beach.jpg" alt="In Goa, you can talk about the applications of ML on a beach!"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/kuveshi.jpg" alt="Relentless pursuit of curiosity is the only way to go."/>
         </div>
+      
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -51,13 +52,13 @@ Our current interests lie in all possible combinations of Machine Learning, Data
 </div>
 
 
-We dedicate our research activites to the Indian polymath D. D. Kosambi who excelled in mathematics, statistics, history, genetics as well as numismatics. 
+We dedicate our research activites to the Indian polymath [D. D. Kosambi](https://en.wikipedia.org/wiki/Damodar_Dharmananda_Kosambi) who excelled in mathematics, statistics, history, genetics as well as numismatics. 
 
-We offer analytics and consultancy services to corporates as a way of funding our activities. 
+We offer analytics and [consultancy services]({{ site.url }}{{ site.baseurl }}/consultancy) to corporates as a way of funding our activities. 
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are currently located at <i> [Mais Space](https://www.google.co.in/maps/place/Vidyavriksh/@15.4863599,73.818404,15z) </i>, a studio which enables learning. Situated in Panaji, Goa -- it is a space supported by the Fomento Group, which enables us to access rescourses at the Fomento Knowledge Office (FKO). 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are looking for passionate seasoned / graduate researchers as well as enterprising undergraduates to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join) **!**
  
  
 We are grateful for funding from Leiden University and [NWO](www.nwo.nl) ([Vidi talent grant](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)).
