@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Vidyavriksh Research Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Publications by the members of the group."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,15 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+The peer reviewed journal publications, conference publications and preprints by our resident researchers as well as remote collaborators are listed below. 
+
+## Research by Residents
+
+{% comment %}
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+
+{% endcomment %}
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
