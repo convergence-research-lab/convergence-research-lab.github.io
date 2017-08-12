@@ -64,12 +64,16 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
 
+{% endfor %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 ## Undergraduate Students 
