@@ -1,12 +1,18 @@
 ---
-title: "Allan Lab - Home"
+title: " Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Interdisciplinary Research Lab in Goa."
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+We are a small, independent and interdisciplinary research group based out of Goa, India. Our aim is to to conduct fundamental and applied research in the sciences, engineering as well as the social sciences. We thrive off collaborative work fostered by the exchange of ideas and development of analogies across traditional discplines. 
+
+Our current interests lie in all possible combinations of Machine Learning, Data Science, Clinical Psychology, Neuroscience, Game Theory, Network Science, Emergent Behavior and Coordination, Theoretical Physics, Cancer Biology, Mathematical Sociology and Education. 
+
+We dedicate our research activites to the Indian polymath D. D. Kosambi who excelled in mathematics, statistics, history, genetics as well as numismatics. 
+
+We offer analytics and consultancy services to corporates as a way of funding our activities. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
