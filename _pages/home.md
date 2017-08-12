@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: " Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Interdisciplinary Research Lab in Goa."
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+We are a small, independent and interdisciplinary research group based out of Goa, India. Our aim is to to conduct fundamental and applied research in the sciences, engineering as well as the social sciences. We thrive off collaborative work fostered by the exchange of ideas and development of analogies across traditional discplines. 
+
+Our current interests lie in all possible combinations of Machine Learning, Data Science, Clinical Psychology, Neuroscience, Game Theory, Network Science, Emergent Behavior and Coordination, Theoretical Physics, Cancer Biology, Mathematical Sociology and Education. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -49,9 +51,9 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
 </div>
 
 
+We dedicate our research activites to the Indian polymath D. D. Kosambi who excelled in mathematics, statistics, history, genetics as well as numismatics. 
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+We offer analytics and consultancy services to corporates as a way of funding our activities. 
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
