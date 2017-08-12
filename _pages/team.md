@@ -1,22 +1,19 @@
-
 ---
-title: "Vidyavriksh Research Group - Team"
+title: "Allan Lab - Team"
 layout: gridlay
-excerpt: "Team Members of the Research Group"
+excerpt: "Allan Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are looking for seasoned researchers, graduate researchers as well as talented undergraduates to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#remote-collaborators), [Undergraduate Students](#undergraduate-students), [lab mentors](#lab-mentors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-
-
-## Resident Researchers
+## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -73,7 +70,7 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 
 
-## Undergraduate Students 
+## Master and Bachelor Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -127,10 +124,6 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 {% endif %}
 
 
-
-
-{% comment %}
-
 ## Alumni
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
@@ -182,9 +175,20 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
 
-{% endcomment %}
-
-## Lab Mentors
+## Lab Guests
 
 [Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015
 
+[Mark H Fischer](https://people.phys.ethz.ch/~mfischer/) (Weizmann Institute of Science), fall 2015
+
+[Alexander Ako Khajetoorians](http://www.ru.nl/spm) (Radboud University), fall 2015
+
+[Mohammad Hamidian](http://www.mhamidian.com) (Harvard->UC Davis), spring 2016
+
+[Ivan Bozovic](https://www.bnl.gov/cmpmsd/mbe/default.asp) (BNL / Yale), spring 2016
+
+[Freek Massee](http://www.fmassee.nl) (Paris), spring 2016
+
+[Felix Baumberger](http://dqmp.unige.ch/baumberger/) (Geneva), spring 2016
+
+[Jasper van Wezel](http://www.jvanwezel.com/) (UvA), summer 2016
