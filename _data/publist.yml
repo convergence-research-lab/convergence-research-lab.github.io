@@ -10,24 +10,3 @@
   display: Int. J. Mod. Phys. D (2017)
   highlight: 1
   news2: See also <a href="https://www.quantamagazine.org/quantum-gravitys-time-problem-20161201/"> Quantum Gravity's Time Problem </a> to understand the problem we are trying to attack. 
-
-
-
-
-
-
-
-{% comment %}
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
-  image: Pub_M2PG.png
-  description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
-  authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
-
-{% endcomment %}
