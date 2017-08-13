@@ -54,7 +54,7 @@ Our current interests lie in all possible combinations of Machine Learning, Data
 
 Given the degree of institutionalization of the modern world, research outside traditional academia or industry has been a largely unexplored terrain. The creation of our group is a bid to experiment with settings in which research can thrive. We dedicate our research activites to the Indian polymath [D. D. Kosambi](https://en.wikipedia.org/wiki/Damodar_Dharmananda_Kosambi) who excelled in mathematics, statistics, history, genetics as well as numismatics. 
 
-We offer analytics and [consultancy services]({{ site.url }}{{ site.baseurl }}/consultancy) to corporates as a way of funding our activities. 
+We offer analytics and [consultancy services]({{ site.url }}{{ site.baseurl }}/consult) to corporates as a way of funding our activities. 
 
 We are currently located at <i> [Mais Space](https://www.google.co.in/maps/place/Vidyavriksh/@15.4863599,73.818404,15z) </i>, a studio which enables learning. Situated in Panaji, Goa -- it is a space supported by the Fomento Group, which enables us to access rescourses at the Fomento Knowledge Office (FKO). 
 
