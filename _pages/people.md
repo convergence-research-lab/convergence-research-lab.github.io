@@ -15,14 +15,17 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 ## Resident Researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.residents %}
 
 <div class="col-sm-12">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <h5>{{member.interest}}</h5>
+
   <ul style="overflow: hidden">
   
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
@@ -50,17 +53,18 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 {% endfor %}
 
----
 
 ## Remote Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.remote %}
 
 
 <div class="col-sm-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <h5>{{member.interest}}</h5>
+
   <ul style="overflow: hidden">
   
   {% if member.number_educ == 1 %}
@@ -94,6 +98,10 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 
 ## Undergraduate Students 
+
+To be announced soon
+
+<!--
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -145,11 +153,17 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 {% if rowcounter == 1 %}
 </div>
 {% endif %}
+-->
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
+To be announced soon. 
+
+<!-- <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->
 
 ## Mentors
 
-[Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015
+To be announced soon. 
+
+<!-- [Amir Safavi-Naeini](http://stanford.edu/~safavi/) (Stanford), summer 2015 -->
