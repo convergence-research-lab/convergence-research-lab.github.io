@@ -100,7 +100,14 @@ The peer reviewed journal publications, conference publications and preprints by
 
 ## Full List
 
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist_residents %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+{% for publi in site.data.publist_remote %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
