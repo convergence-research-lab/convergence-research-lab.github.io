@@ -1,13 +1,12 @@
 - name: Shraddha Barke
-  photo: Milan.jpg
-  info: Assistant Professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 4
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  interest:
+  photo: shraddha.jpg
+  info: Research Intern at <a href="https://softech.informatik.uni-kl.de/homepage/de/"> AG Softech </a>, TU Kaiserslautern
+  email: shraddha.6596@gmail.com
+  number_educ: 3
+  education1: B.E (Hons.) in Electronics - BITS Pilani, K. K. Birla Goa Campus ('13 - '16)
+  education2: Visiting Student - <a href="http://www.tcs.tifr.res.in/"> TIFR </a>, Mumbai and <a href="https://www.cbr.iisc.ac.in/"> Center for Brain Research</a>, IISC
+  education3: Intern at <a href="https://www.linuxfoundation.org/"> Linux Foundation </a>
+  interest: Formal Verification, Computational Logic, Machine Learning, Network Biology and Psychology
 
 - name: Vishakha Patil
   photo: Vishakha.jpg

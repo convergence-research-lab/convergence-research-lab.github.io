@@ -19,7 +19,7 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 <div class="col-sm-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4><strong>{{ member.name }}</strong></h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <h5>{{member.interest}}</h5>
 
@@ -60,8 +60,8 @@ Jump to [Resident Researchers](#resident-researchers), [Remote Collaborators](#r
 
 
 <div class="col-sm-12">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <h4><strong>{{ member.name }}</strong></h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <h5>{{member.interest}}</h5>
 
