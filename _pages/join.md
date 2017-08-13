@@ -14,6 +14,6 @@ Appplication details will be posted soon.
 
 <center>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/sid.jpg" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/sid.jpg" width="60%">
 </figure>
 </center>

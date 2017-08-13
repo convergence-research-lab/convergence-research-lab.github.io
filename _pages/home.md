@@ -31,7 +31,7 @@ Our current interests lie in all possible combinations of Machine Learning, Data
             <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/hri.jpg" alt="We see Mathematics in everything!" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/urbancafe.jpg" alt="Where the freedom of mind meets the freedom of the spirit." />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/shraddha.jpg" alt="Where the freedom of mind meets the freedom of the spirit." />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homeslider/raj_renuka_beach.jpg" alt="In Goa, you can talk about the applications of ML on a beach!"/>

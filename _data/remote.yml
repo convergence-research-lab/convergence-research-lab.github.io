@@ -10,15 +10,14 @@
   interest:
 
 - name: Vishakha Patil
-  photo: Milan.jpg
-  info: Assistant Professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 4
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  interest:
+  photo: Vishakha.jpg
+  info: Graduate Researcher, Game Theory / ML Lab @ <a href="http://lcm.csa.iisc.ernet.in/index.html"> IISc </a>
+  email: patilvishkakha29@gmail.com
+  number_educ: 3
+  education1: M.Tech. (Research) in Computer Science, <a href="http://iisc.ernet.in"> IISc </a> ('17 - ongoing)
+  education2: B.Tech. in Computer Engineering from GEC, Goa University ('10 - '14)
+  education3: Former Systems Engineer at Infosys ('14 -'15) 
+  interest: Game Theory, Machine Learning, Psychology, Anthropology
   
 - name: "This could be you !"
   photo: rock.jpg

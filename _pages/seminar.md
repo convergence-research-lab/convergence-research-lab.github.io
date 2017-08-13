@@ -13,3 +13,9 @@ Indicated below is the person responsible for presenting a paper/topic and sendi
 
 19.08.2017 Raj ~ <i> Topic </i>
 
+<center>
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/urbancafe.jpg" width="60%">
+</figure>
+</center>
+
