@@ -1,9 +1,19 @@
+- name: Anshul Ravichandar
+  photo: Anshul.jpg
+  info:  Associate at <a href="https://www.morganstanley.com/about-us/global-offices/india"> Morgan Stanley </a>
+  email: r.anshul@gmail.com
+  number_educ: 2
+  education1: B.E. (Hons.) in Computer Science - <a href="http://bits-goa.ac.in"> BITS Pilani, K. K. Birla Goa Campus </a> ('13 - '17)
+  education2: Intern at <a href="https://www.qubole.com/"> Qubole </a> & <a href="https://www.symantec.com/"> Symantec Inc </a>.
+  interest: Number Theory, Deep Learning, Psychology, Systems Architecture, Economics of Markets, Theoretical Computer Science  
+
+
 - name: Shraddha Barke
   photo: shraddha.jpg
   info: Research Intern at <a href="https://softech.informatik.uni-kl.de/homepage/de/"> AG Softech </a>, TU Kaiserslautern
   email: shraddha.6596@gmail.com
   number_educ: 3
-  education1: B.E (Hons.) in Electronics - BITS Pilani, K. K. Birla Goa Campus ('13 - '16)
+  education1: B.E (Hons.) in Electronics - <a href="http://bits-goa.ac.in"> BITS Pilani, K. K. Birla Goa Campus </a> ('13 - '16)
   education2: Visiting Student - <a href="http://www.tcs.tifr.res.in/"> TIFR </a>, Mumbai and <a href="https://www.cbr.iisc.ac.in/"> Center for Brain Research</a>, IISC
   education3: Intern at <a href="https://www.linuxfoundation.org/"> Linux Foundation </a>
   interest: Formal Verification, Computational Logic, Machine Learning, Network Biology and Psychology

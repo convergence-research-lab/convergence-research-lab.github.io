@@ -55,8 +55,6 @@ The peer reviewed journal publications, conference publications and preprints by
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
 ## Research by Remote Collaborators
 
 {% assign number_printed = 0 %}
@@ -95,8 +93,6 @@ The peer reviewed journal publications, conference publications and preprints by
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
 
 ## Full List
 
@@ -114,3 +110,4 @@ The peer reviewed journal publications, conference publications and preprints by
 
 {% endfor %}
 
+<p> &nbsp; </p>
