@@ -8,10 +8,23 @@ permalink: /seminar.html
 
 # Knowledge Exchange Seminar
 
-Indicated below is the person responsible for presenting a paper/topic and sending out a reminder for the same. Meetings dates, venue and timings will be decided -- preferably over Shawarma or [Cafreal](https://en.wikipedia.org/wiki/Cafreal) Pao. The nature of the paper/topic would be such that it is not only accesible to every researcher, but stimulating enough to spark off collaborations.  
+We believe that a constant exchange of interdiscliplinary research oriented ideas is a driving factor behind our initiative. The seminar series seeks to formalize this process, by urging researchers to share and discuss papers/topics that they find interesting. The nature of the paper/topic would be such that it is not only accesible to every researcher, but stimulating enough to spark off collaborations. The seminars will be peferably held over Bhaaji Pao / Goan Samosas / Shawarma / [Cafreal](https://en.wikipedia.org/wiki/Cafreal) Pao. 
+
+The seminars are open to general public. To present a seminar, kindly [contact us](mailto:rajkunkolienkar@gmail.com). 
+
+<i> Venue </i> : [Vidyavriksh](https://goo.gl/maps/pUZPhZR2xV62)
+
+<i> Time </i> : 11:00 am
+
 #  Calendar
 
-08.2017 Raj ~ <i> Strong and Weak Ties in Social Networks </i>
+27 Aug 2017 - Raj ~ <i> Strong and Weak Ties in Social Networks </i> 
+
+02 Sep 2017 - Gaurav
+
+09 Sep 2017 - Siddharaj
+
+16 Sep 2017 - Renuka
 
 <center>
 <figure>

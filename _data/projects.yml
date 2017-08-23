@@ -1,11 +1,66 @@
-#- title: 
-#  image: 
-#  description: 
-#  people: 
-    
-#  link: 
-#   url: 
-#   display: 
-# highlight: 1
-# reference1:
-# reference2:
+
+- title: Game Theoretic Approaches to Cancer
+  image: cancer.png
+  description: In the recent years, our understanding of cancer has benefited from thinking of cancer in the context of the environment in which it thrives. Such interactions can be modelled using Evolutionary Game Theory. Thinking of cancer as an aggressive and selfish agent pitted against cooperative cells, we seek to provide novel insights in the management and treatment of cancer.
+  people: Raj, Gaurav, Vishakha
+  link:
+    url: https://www.technologyreview.com/s/514821/game-theory-and-the-treatment-of-cancer/ 
+    display: Game Theory and the Treatment of Cancer
+  highlight: 1
+  reference1:
+  reference2:
+
+- title: Brain - Computer interface Development
+  image: brainmachine.jpg
+  description: Research in the field of brain computer interface has seen great progress through the analysis of biological signals such as EEG & ECG. Using signal processing & data science, biological signals can be transformed to represent an intention or conscious state of the subject with considerable accuracies. We aim to develop novel techniques of our own or optimise existing ones.
+  people: Gaurav, Shraddha, Renuka
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3497935/
+    display: Brain - Computer interface in Medicine
+  highlight: 1
+  reference1:
+  reference2:
+
+- title: Modelling Self Organising Pedestian Behaviour 
+  image: pedestrian.jpg
+  description: The lack of adherence to pedestian crossing laws or implementation of signalled crossings in developing countries present us with an interesting example of a self-rganised system at play. Our aim is to theoretically model and explain real world data to gain an understanding of the underlying rules in this emergent system.
+  people: Raj, Kinjal
+  link:
+    url: http://www.all-about-india.com/How-To-Cross-A-Road-In-India.html
+    display: How To Cross A Road In India
+  highlight: 1
+  reference1:
+  reference2:
+
+- title: Computational Approach to Personality Disorders
+  image: comp.jpg
+  description: With the proliferation of techniques in Machine Learning, it is of relevance to ask what light it can shed on human cognition. We wish to take a mathematical and algorithmic approach to model human learning and conditioning so as to eventually develop novel stratergies to tackle the treatment of certain personality disorders.
+  people: Renuka, Raj, Gaurav, Siddharaj
+  link: 
+    url: http://www.sciencedirect.com/science/article/pii/S0925231216003337
+    display: Can Machine Learning Explain Human Learning?
+  highlight: 1
+  reference1:
+  reference2:
+
+- title: A Network Science Perspective on College Friendships
+  image: network.jpg
+  description: The 'six degrees of separation' legend has lead to a considerable interest in the role of network science in economics and sociology. We are trying to use novel methods to track the time evolution of friendship networks inside a univerisity setting to comment on the statistical property of such networks, and compare them with results in the literature.
+  people: Raj, Kinjal, Gaurav, Shraddha
+  link: 
+    url: https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf
+    display: Using 'who-talks-to-whom' Network Data 
+  highlight: 1
+  reference1:
+  reference2:
+
+- title: Natural Language Processing for Psychiatry
+  image: psychiatry.jpg
+  description: The ability of machines to comprehend the expressions and nuances of human language by using sentiment analysis finds a natural home in the psychiatric setting. We are trying to devise a data driven, real-time feedback and progress tracking system which could aid therapists in directing the course of therapy.
+  people: Renuka, Gaurav, Siddharaj
+  link: 
+    url: http://psycnet.apa.org/doi/10.1037/a0034559
+    display: AI in psychological practice - Current & future applications & implications
+  highlight: 1
+  reference1:
+  reference2:
