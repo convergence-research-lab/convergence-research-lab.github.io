@@ -18,11 +18,11 @@ The seminars are open to general public. To present a seminar, kindly [contact u
 
 #  Calendar
 
-27 Aug 2017 - Raj ~ <i> Strong and Weak Ties in Social Networks </i> 
+02 Sep 2017 - Raj ~ <i> Strong and Weak Ties in Social Networks </i> 
 
-02 Sep 2017 - Gaurav
+09 Sep 2017 - Gaurav - <i>  Working introduction to Data Sciencs & ML in Python </i>
 
-09 Sep 2017 - Siddharaj
+16 Sep 2017 - Siddharaj
 
 16 Sep 2017 - Renuka
 
