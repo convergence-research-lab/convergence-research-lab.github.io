@@ -1,8 +1,18 @@
 
+- name: Akshar Gupta
+  photo: Akshar.jpg
+  info: Applied Math Lead
+  email: akshar@vidyavriksh.in
+  number_educ: 3
+  education1: Int. M.Sc. (Hons.) in Mathematics - <a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a> ('12 - '17)
+  education2: B.E. (Hons.) in Electronics & Electrical Engineering -<a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a>  ('12 - '17)
+  education3: Intern - <a href="http://absentiavr.com/"> Absentia VR </a>
+  interest: Machine & Deep Learning, Statistics, Education, Data Mining
+  
 - name: Gaurav Tamba
   photo: Gaurav.jpg
   info: Engineering Lead
-  email: gauravtamba@gmail.com
+  email: gaurav@vidyavriksh.in
   number_educ: 4
   education1: Int. M.Sc. (Hons.) in Biology - <a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a> ('12 - '17)
   education2: B.E. (Hons.) in Computer Science -<a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a>  ('12 - '17)
@@ -12,8 +22,8 @@
   
 - name: Raj Kunkolienkar
   photo: Raj.jpg
-  info: Science and Applied Math Lead
-  email: rajkunkolienkar@gmail.com
+  info: Science Lead
+  email: raj@vidyavriksh.in
   number_educ: 2
   education1: Int. M.Sc. (Hons.) in Physics - <a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a> ('12 - '15)
   education2: Visiting Student - String Theory Group, <a href="http://www.hri.res.in/"> HRI Allahabad </a> & <a href="faraday.fc.up.pt/cfp"> CFP </a>, University of Porto
@@ -22,7 +32,7 @@
 - name: Renuka Figueiredo
   photo: Renuka.jpg
   info: Psychology Lead
-  email: renukafig.23@gmail.com
+  email: renuka@vidyavriksh.in
   number_educ: 3
   education1: M.Sc. in Clinical Psychology - <a href="https://manipal.edu/soahs-manipal.html"> School of Allied Health Sciences, Manipal University </a> ('15 - '17)
   education2: B.A. in Psychology - <a href="www.xavierscollege-goa.com/"> St. Xavier's College </a>, Goa University ('12 - '15)
@@ -33,7 +43,7 @@
 - name: Siddharaj Mopkar
   photo: Siddharaj.jpg
   info: Education Lead 
-  email: siddharajmopkar@gmail.com
+  email: siddharaj@vidyavriksh.in
   number_educ: 2
   education1: B.Tech. in Chemical Engineering - <a href="www.nitc.ac.in/"> NIT Calicut </a> ('07 - '11)
   education2: Fellow, <a href="www.teachforindia.org/"> Teach for India </a> ('13 - '15) & Educational Consultant at Vidyavriksh
