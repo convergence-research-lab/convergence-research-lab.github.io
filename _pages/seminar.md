@@ -20,11 +20,11 @@ The seminars are open to general public. To present a seminar, kindly [contact u
 
 02 Sep 2017 - Raj ~ <i> Strong and Weak Ties in Social Networks </i> 
 
-09 Sep 2017 - Gaurav - <i>  Working introduction to Data Sciencs & ML in Python </i>
+09 Sep 2017 - Gaurav ~ <i>  Working introduction to Data Sciencs & ML in Python </i>
 
-16 Sep 2017 - Siddharaj
+23 Sep 2017 - Siddharaj ~ <i> Usage of the term "Intelligence" in Education </i>
 
-16 Sep 2017 - Renuka
+30 Sep 2017 - Renuka ~ <i>  Towards a Mathematically Informed Understanding of Mental Illness </i>
 
 <center>
 <figure>
