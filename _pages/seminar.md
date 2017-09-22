@@ -8,7 +8,7 @@ permalink: /seminar.html
 
 # Knowledge Exchange Seminar
 
-We believe that a constant exchange of interdiscliplinary research oriented ideas is a driving factor behind our initiative. The seminar series seeks to formalize this process, by urging researchers to share and discuss papers/topics that they find interesting. The nature of the paper/topic would be such that it is not only accesible to every researcher, but stimulating enough to spark off collaborations. The seminars will be peferably held over Bhaaji Pao / Goan Samosas / Shawarma / [Cafreal](https://en.wikipedia.org/wiki/Cafreal) Pao. 
+We believe that a constant exchange of interdiscliplinary research oriented ideas is a driving factor behind our initiative. The seminar series seeks to formalize this process, by urging researchers to share and discuss papers/topics that they find interesting. The nature of the paper/topic would be such that it is not only accesible to every researcher, but stimulating enough to spark off collaborations. The seminars will be preferably held over Bhaaji Pao / Goan Samosas / Shawarma / [Cafreal](https://en.wikipedia.org/wiki/Cafreal) Pao. 
 
 The seminars are open to general public. To present a seminar, kindly [contact us](mailto:rajkunkolienkar@gmail.com). 
 
