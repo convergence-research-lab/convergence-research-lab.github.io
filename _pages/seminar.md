@@ -24,7 +24,9 @@ The seminars are open to general public. To present a seminar, kindly [contact u
 
 23 Sep 2017 - Siddharaj ~ <i> Usage of the term "Intelligence" in Education </i>
 
-30 Sep 2017 - Renuka ~ <i>  Towards a Mathematically Informed Understanding of Mental Illness </i>
+30 Sep 2017 - Raj ~ <i> Evolutionary Game Theory and the Paradox of Tolerence </i>
+
+7 Oct 2017 - Renuka ~ <i>  Towards a Mathematically Informed Understanding of Mental Illness </i>
 
 <center>
 <figure>
