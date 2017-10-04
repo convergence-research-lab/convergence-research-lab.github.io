@@ -22,9 +22,9 @@ The seminars are open to general public. To present a seminar, kindly [contact u
 
 09 Sep 2017 - Gaurav ~ <i>  Working introduction to Data Science & ML in Python </i>
 
-23 Sep 2017 - Siddharaj ~ <i> Usage of the term "Intelligence" in Education </i> [[video] (https://goo.gl/xMAzf5)]
+23 Sep 2017 - Siddharaj ~ <i> Usage of the term "Intelligence" in Education </i> [[video](https://goo.gl/xMAzf5)]
 
-30 Sep 2017 - Raj ~ <i> Evolutionary Game Theory and the Paradox of Tolerence </i> [[video] (https://goo.gl/PRVQWL)]
+30 Sep 2017 - Raj ~ <i> Evolutionary Game Theory and the Paradox of Tolerence </i> [[video](https://goo.gl/PRVQWL)]
 
 7 Oct 2017 - Renuka ~ <i>  Towards a Mathematically Informed Understanding of Mental Illness </i>
 
