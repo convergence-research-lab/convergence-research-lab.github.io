@@ -18,17 +18,21 @@ The seminars are open to general public. To present a seminar, kindly [contact u
 
 #  Calendar
 
-02 Sep 2017 - Raj ~ <i> Strong and Weak Ties in Social Networks </i> 
+02 Sep 2017 - Raj Kunkolienkar ~ <i> Strong and Weak Ties in Social Networks </i> 
 
-09 Sep 2017 - Gaurav ~ <i>  Working introduction to Data Science & ML in Python </i>
+09 Sep 2017 - Gaurav Tamba ~ <i>  Introduction to Data Science & ML in Python </i>
 
-23 Sep 2017 - Siddharaj ~ <i> Usage of the term "Intelligence" in Education </i> [[video](https://goo.gl/xMAzf5)]
+23 Sep 2017 - Siddharaj Mopkar ~ <i> Usage of the term "Intelligence" in Education </i> [[video](https://goo.gl/xMAzf5)]
 
-30 Sep 2017 - Raj ~ <i> Evolutionary Game Theory and the Paradox of Tolerence </i> [[video](https://goo.gl/PRVQWL)]
+30 Sep 2017 - Raj Kunkolienkar~ <i> Evolutionary Game Theory and the Paradox of Tolerence </i> [[video](https://goo.gl/PRVQWL)]
 
-7 Oct 2017 - Renuka ~ <i>  Towards a Mathematically Informed Understanding of Mental Illness </i>
+7 Oct 2017 - Sahil Sardessai ~ <i>  Designing for Humans : Using Cognitive Psychology to Engange. </i>
+
+14 Oct 2017 - Gaurav Tamba ~ <i> Cryptocurrency and Blockchain </i>
 
 11 Nov 2017 - 'The Healer' ~ <i> "Lonliness is an International State of Emergency" </i> 
+
+23 Dec 2017 - Amrita Suresh ~ <i> Introduction to Formal Models and Verification </i>
 
 <center>
 <figure>
