@@ -1,3 +1,23 @@
+- name: Akshar Gupta
+  photo: Akshar.jpg
+  info: Applied Math Lead
+  email: akshar@vidyavriksh.in
+  number_educ: 3
+  education1: Int. M.Sc. (Hons.) in Mathematics - <a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a> ('12 - '17)
+  education2: B.E. (Hons.) in Electronics & Electrical Engineering -<a href="http://www.bits-pilani.ac.in/Goa/"> BITS Pilani, K. K. Birla Goa Campus </a>  ('12 - '17)
+  education3: Intern - <a href="http://absentiavr.com/"> Absentia VR </a>
+  interest: Machine & Deep Learning, Statistics, Education, Data Mining
+
+- name: Anirudh Kanisetti
+  photo: Anirudh.jpg
+  info:  Research Associate at <a http://takshashila.org.in/"> Takshashila Institution </a> (Technology & Policy)
+  email: anirudh.kanisetti@gmail.com
+  number_educ: 3
+  education1: B.E. (Hons.) in Electronics and Instrumentation - <a href="http://bits-goa.ac.in"> BITS Pilani, K. K. Birla Goa Campus </a> ('12 - '16)
+  education2: Minor in Philosophy, Economics, and Politics - <a href="http://bits-goa.ac.in"> BITS Pilani, K. K. Birla Goa Campus </a> ('12 - '16)
+  education3: Teacher at <a href="https://unacademy.com/user/AnirudhKanisetti/courses"> Unacademy </a>, Contributor at <a href="http://www.newindianexpress.com/opinions/2017/may/18/its-misuse-of-power-not-lust-1605983--1.html> New Indian Express </a>, <a href="http://www.deccanherald.com/content/620591/inciting-lynch-mobs-through-social.html"> Deccan Herald </a>, <a href="https://medium.com/@indicusmaximus"> Medium </a>
+  interest: Emerging Technologies & Policy -- Social Media & Democracy, Gene Editing, Network Science, Geopolitics.  
+
 - name: Anshul Ravichandar
   photo: Anshul.jpg
   info:  Associate at <a href="https://www.morganstanley.com/about-us/global-offices/india"> Morgan Stanley </a>
@@ -6,7 +26,6 @@
   education1: B.E. (Hons.) in Computer Science - <a href="http://bits-goa.ac.in"> BITS Pilani, K. K. Birla Goa Campus </a> ('13 - '17)
   education2: Intern at <a href="https://www.qubole.com/"> Qubole </a> & <a href="https://www.symantec.com/"> Symantec Inc </a>.
   interest: Number Theory, Deep Learning, Psychology, Systems Architecture, Economics of Markets, Theoretical Computer Science  
-
 
 - name: Shraddha Barke
   photo: shraddha.jpg
